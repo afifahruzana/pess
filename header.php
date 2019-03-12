@@ -13,7 +13,6 @@ body {font-family: "Lato", sans-serif;}
   font-size: 17px;
   width: 25%;
 }
-
 .tablink:hover {
   background-color: #FFF;
 }
